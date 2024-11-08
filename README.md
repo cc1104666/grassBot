@@ -1,4 +1,5 @@
-**GrassBot**
+# 												**GrassBot** 
+
 ****使用方法****
 1、python必须>=3.11
 2、创建虚拟环境   python -m venv venv
@@ -32,11 +33,13 @@
 
 再pip install -r requirements.txt
 
-![image](https://github.com/user-attachments/assets/03ecc428-a286-41a1-8b78-50a97a170ef9)
+![img](https://cdn.nlark.com/yuque/0/2024/png/40368878/1731069119861-e9911fb4-7874-4234-b9ef-0fe229e2f8fe.png![img](https://cdn.nlark.com/yuque/0/2024/png/40368878/1731069148629-f3411ef2-6e98-4f31-9b58-92cb8d6a6fac.png)
 ![image](https://github.com/user-attachments/assets/4916574c-5a04-4502-b75c-b20b082185b5)
 
 全部下完后python grass.py即可
 
 ![image](https://github.com/user-attachments/assets/cc7d338a-c965-4ee3-b2bd-a6a5ae250f81)
+
+
 
 ![image](https://github.com/user-attachments/assets/4e5db787-933f-45fc-9633-fdfc8838761e)
