@@ -2,7 +2,9 @@
 
 #### **使用方法**
 
-1、python必须>=3.112、创建虚拟环境   python -m venv venv
+1、python必须>=3.11
+
+2、创建虚拟环境   python -m venv venv
 
 3、启动虚拟环境   venv\Scripts\activate   再运行  python run.py
 
